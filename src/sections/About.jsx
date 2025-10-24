@@ -3,7 +3,6 @@ import styled from "styled-components";
 
 import img1 from "../assets/Images/10.webp";
 import img2 from "../assets/Images/2.webp";
-import img3 from "../assets/Images/3.webp";
 import img4 from "../assets/Images/4.webp";
 
 const Section = styled.section`
