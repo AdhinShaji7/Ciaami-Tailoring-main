@@ -145,7 +145,7 @@ const Navbar = () => {
   whileTap={{ scale: 0.9, y: 0 }}
 >
   <a 
-    href="https://wa.me/8590903116?text=Hi%2C%20I%27m%20interested%20in%20your%20look%20book!" 
+    href="https://wa.me/7510438506?text=Hi%2C%20I%27m%20interested%20in%20your%20look%20book!" 
     target="_blank" 
     rel="noreferrer"
   >
